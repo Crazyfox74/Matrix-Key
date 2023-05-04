@@ -1,0 +1,5 @@
+../Core/Src/ws2812/ws2812.c:20:6:ws2812_init	16	static
+../Core/Src/ws2812/ws2812.c:26:6:ws2812_pixel_rgb_to_buf_dma	32	static
+../Core/Src/ws2812/ws2812.c:57:10:ws_num	16	static
+../Core/Src/ws2812/ws2812.c:80:10:ws_num_led	16	static
+../Core/Src/ws2812/ws2812.c:107:6:led_specific	24	static

@@ -1,0 +1,6 @@
+../CPP/WS2812/WS2812.cpp:18:1:WS2812::WS2812()	16	static
+../CPP/WS2812/WS2812.cpp:27:6:void WS2812::WS2812_init()	24	static
+../CPP/WS2812/WS2812.cpp:32:6:void WS2812::WS2812_RGB_to_DMA(uint8_t, uint8_t, uint8_t, uint16_t)	32	static
+../CPP/WS2812/WS2812.cpp:61:10:uint16_t WS2812::WS_NUM_TO_LED(uint8_t, uint8_t)	16	static
+../CPP/WS2812/WS2812.cpp:84:6:void WS2812::WS2812_LED_ON(uint8_t, uint8_t)	24	static
+../CPP/WS2812/WS2812.cpp:91:6:void WS2812::WS2812_LED_OFF()	16	static

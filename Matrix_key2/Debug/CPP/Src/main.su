@@ -1,0 +1,4 @@
+../CPP/Src/main.cpp:16:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
+../CPP/Src/main.cpp:29:6:void CppMain()	8	static
+../CPP/Src/main.cpp:44:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../CPP/Src/main.cpp:44:1:cpp)	8	static
